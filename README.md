@@ -16,8 +16,8 @@ Platform : Google Colaboratory GPU
  - Test Dataset : 818 images
 
 + Techniques : 
- ++ Data Augmentation
- ++ Implementation of a Weighted balancing Sampler
+ + Data Augmentation
+ + Implementation of a Weighted balancing Sampler
 
 ## Modeling and validation Phase : 
 
