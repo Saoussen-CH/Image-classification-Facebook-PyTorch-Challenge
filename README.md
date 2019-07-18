@@ -33,6 +33,6 @@ more epochs with new learning rate.
 
 - Implementation of a prediction function
 - Testing the trained model on the unseen test dataset resulted on a :
-    Top_1 accuracy : 99,87 % 
-    Top_5 accuracy : 100 %
+###### Top_1 accuracy : 99,87 % 
+###### Top_5 accuracy : 100 %
 - Visualization of top_5 class predictions of a new flower image
