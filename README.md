@@ -1,7 +1,9 @@
 # Image-classification-Facebook-PyTorch-Challenge
 
 Framework and Libraries : PyTorch, Numpy
+
 Visualisation Libraries : matplotlib, seaborn
+
 Platform : Google Colaboratory GPU
 
 Phases : 
